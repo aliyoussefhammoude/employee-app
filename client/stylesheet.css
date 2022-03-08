@@ -1,6 +1,6 @@
 main {
     width: 50%;
-    margin: 50px auto;
+    margin: 50px;
     text-align: center;
 }
 
@@ -14,5 +14,5 @@ table, th, td {
 }
 
 th, td {
-    padding: 5px;
+    padding: 15px;
 }
